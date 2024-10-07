@@ -1,0 +1,41 @@
+.home{
+    background-image: url("https://responsive2356.netlify.app/img/182428240217.jpg");
+    background-color: black;
+    height: 90vh;
+}
+nav{ 
+    color: rgb(244, 244, 244);
+}
+.head{
+    color: aliceblue;
+    font-size: 60px;
+    line-height: 5rem;
+}
+#logo{
+    font-size: large;
+}
+
+.mid{
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.libr{
+    height: auto;
+    border-top: 2px;
+    border-bottom: 2px;
+    border-color: aliceblue;
+    background-color: black;
+}
+.imgdiv img{
+    height: 216px;
+    width: 250px;
+
+}
+.library{
+    width: 100vw;
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    padding: 100px 150px 100px 150px;
+    justify-content: center;
+}
